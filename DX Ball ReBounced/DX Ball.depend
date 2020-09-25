@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1531405508 source:h:\tutorials pdf\diagrams\iprojectpractices\new folder\balldemo.cpp
+	"iGraphics.h"
+
+1462108168 h:\tutorials pdf\diagrams\iprojectpractices\new folder\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1531559527 source:g:\dx-ball\up2\new folder\balldemo.cpp
+	"iGraphics.h"
+
+1462108168 g:\dx-ball\up2\new folder\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1531561635 source:g:\1705024\new folder\balldemo.cpp
+	"iGraphics.h"
+
+1531561578 g:\1705024\new folder\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<glaux.h>
+	"TextureList.h"
+
+1531561620 g:\1705024\new folder\texturelist.h
+	"texture.h"
+
+1530384362 g:\1705024\new folder\texture.h
+
+1532093439 source:h:\tutorials pdf\diagrams\igraphics projects\new folder\balldemo.cpp
+	"iGraphics.h"
+	<ctype.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1531926645 h:\tutorials pdf\diagrams\igraphics projects\new folder\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532463407 source:h:\tutorials pdf\diagrams\igraphics projects\dx ball 2\balldemo.cpp
+	"iGraphics.h"
+	<ctype.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1531926645 h:\tutorials pdf\diagrams\igraphics projects\dx ball 2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532625882 source:g:\dx-ball\dx ball 2\balldemo.cpp
+	"iGraphics.h"
+	<ctype.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1531926645 g:\dx-ball\dx ball 2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532889987 source:h:\tutorials pdf\dx ball 2(mailed)\dx ball 2\balldemo.cpp
+	"iGraphics.h"
+	<ctype.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1531926646 h:\tutorials pdf\dx ball 2(mailed)\dx ball 2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533060296 source:g:\dx-ball\dx ball 2(mailed)\dx ball 2\balldemo.cpp
+	"iGraphics.h"
+	<ctype.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1531926646 g:\dx-ball\dx ball 2(mailed)\dx ball 2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533060296 source:d:\dx ball\dx ball 2\balldemo.cpp
+	"iGraphics.h"
+	<ctype.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1531926646 d:\dx ball\dx ball 2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
